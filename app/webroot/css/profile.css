@@ -1,0 +1,18 @@
+/* 
+    Document   : profile
+    Created on : Dec 26, 2013, 2:41:37 AM
+    Author     : Zee
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.profile-cover {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background-color: black;
+}
+.img > profile-cover {
+    position: relative;
+    width: 100%;
+}
